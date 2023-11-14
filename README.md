@@ -2,7 +2,7 @@
 
 
 # Introduction
-In 2022, I undertook a project focusing on the pricing of European Basket options under Black-Scholes assumptions using a neural network (NN) approach. This project involves building and training a NN model with generated data, aiming to compare its efficacy against the traditional Monte-Carlo (MC) simulation method. Additionally, I evaluate the performance of both the NN model and MC simulation against the classic Black-Scholes (B-S) model in single-asset scenarios.
+In 2022, I undertook an eight-hour practicing project focusing on the pricing of European Basket options under Black-Scholes assumptions using a neural network (NN) approach. This project involves building and training a NN model with generated data, aiming to compare its efficacy against the traditional Monte-Carlo (MC) simulation method. Additionally, I evaluate the performance of both the NN model and MC simulation against the classic Black-Scholes (B-S) model in single-asset scenarios.
 
 # Data Generation
 The data for training and testing the NN model is synthetically generated based on the following criteria:
